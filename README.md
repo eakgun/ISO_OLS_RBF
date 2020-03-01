@@ -1,4 +1,4 @@
-# ISO_OLS_RBF
+# Generalized Second Order Method For RBF Neural Networks and Center Selection From a Generated Subset Using OLS
 
 
 27/12/2019 Radial Basis Function Network with Center Selection using OLS
